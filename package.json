@@ -1,0 +1,25 @@
+{
+  "name": "Crud-Mongose-JS",
+  "version": "1.0.0",
+  "description": "Simple CRUD JavaScripts",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fanzru/Crud-Mongose-JS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fanzru/Crud-Mongose-JS/issues"
+  },
+  "homepage": "https://github.com/Fanzru/Crud-Mongose-JS#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {}
+}
